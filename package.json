@@ -14,7 +14,7 @@
     "bot",
    "discord
   ],
-  "author": "Gabriel Tanner",
+  "author": "Min",
   "license": "MIT",
   "dependencies": {
     "@discordjs/opus": "^0.6.0",
