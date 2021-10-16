@@ -1,7 +1,7 @@
 {
   "name": "Walty",
   "version": "1.0.0",
-  "repository": "N/A",
+  "repository": "https://github.com/DutyServeUnion/Discord-admin-bot",
   "description": "A simple discord music bot and admin bot",
   "main": "index.js",
   "scripts": {
