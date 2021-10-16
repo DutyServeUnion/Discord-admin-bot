@@ -4,7 +4,7 @@ module.exports = {
     options: [
       {
         name: 'user',
-        type: 6, //USER Type
+        type: 6, //USER
         description: 'Name the user you would like to ban from the discord.',
         required: true,
     },
